@@ -1,0 +1,6 @@
+# Evitar que se suban mis datos y contraseñas reales
+.env
+
+# Evitar carpetas de configuración de Python o Spyder (Opcional pero recomendado)
+__pycache__/
+.spyproject/
